@@ -575,8 +575,9 @@
     <Content Include="Services\DefaultViewService\HttpAssets\libs\angular\angular.1.6.4.min.js" />
     <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.4.js" />
     <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.4.min.js" />
-    <Content Include="Services\DefaultViewService\HttpAssets\scripts.2.5.0.min.js">
-      <DependentUpon>scripts.2.5.0.js</DependentUpon>
+    <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\scripts.2.6.0.js" />
+    <Content Include="Services\DefaultViewService\HttpAssets\scripts.2.6.0.min.js">
+      <DependentUpon>scripts.2.6.0.js</DependentUpon>
     </Content>
     <Content Include="Services\DefaultViewService\HttpAssets\styles.css" />
     <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\styles.min.css">
@@ -623,7 +624,6 @@
     </EmbeddedResource>
     <Content Include="Services\DefaultViewService\HttpAssets\libs\encoder\encoder.js" />
     <Content Include="Services\DefaultViewService\HttpAssets\libs\encoder\encoder.min.js" />
-    <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\scripts.2.5.0.js" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

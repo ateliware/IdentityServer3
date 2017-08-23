@@ -1,6 +1,6 @@
 [
   {
-    "outputFileName": "Services/DefaultViewService/HttpAssets/scripts.2.5.0.js",
+    "outputFileName": "Services/DefaultViewService/HttpAssets/scripts.2.6.0.js",
     "inputFiles": [
       "Services/DefaultViewService/HttpAssets/libs/jquery/jquery-1.12.4.min.js",
       "Services/DefaultViewService/HttpAssets/libs/bootstrap/js/bootstrap.min.js",
