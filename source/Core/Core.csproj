@@ -573,11 +573,11 @@
   <ItemGroup>
     <Content Include="Services\DefaultViewService\HttpAssets\libs\angular\angular.1.6.4.js" />
     <Content Include="Services\DefaultViewService\HttpAssets\libs\angular\angular.1.6.4.min.js" />
-    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.4.js" />
-    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.4.min.js" />
-    <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\scripts.2.6.0.js" />
-    <Content Include="Services\DefaultViewService\HttpAssets\scripts.2.6.0.min.js">
-      <DependentUpon>scripts.2.6.0.js</DependentUpon>
+    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.2.js" />
+    <Content Include="Services\DefaultViewService\HttpAssets\libs\jquery\jquery-1.12.2.min.js" />
+    <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\scripts.2.7.0.js" />
+    <Content Include="Services\DefaultViewService\HttpAssets\scripts.2.7.0.min.js">
+      <DependentUpon>scripts.2.7.0.js</DependentUpon>
     </Content>
     <Content Include="Services\DefaultViewService\HttpAssets\styles.css" />
     <EmbeddedResource Include="Services\DefaultViewService\HttpAssets\styles.min.css">
