@@ -4,7 +4,7 @@
     "inputFiles": [
       "Services/DefaultViewService/HttpAssets/libs/jquery/jquery-1.12.2.min.js",
       "Services/DefaultViewService/HttpAssets/libs/bootstrap/js/bootstrap.min.js",
-      "Services/DefaultViewService/HttpAssets/libs/angular/angular.1.6.4.js",
+      "Services/DefaultViewService/HttpAssets/libs/angular/angular.1.6.5.js",
       "Services/DefaultViewService/HttpAssets/libs/encoder/encoder.min.js",
       "Services/DefaultViewService/HttpAssets/app/app.js"
     ]
